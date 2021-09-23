@@ -1,4 +1,5 @@
 body { 
+    
 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  background-color: rgb(243, 237, 225);
@@ -9,12 +10,26 @@ nav {
 }
 
 ul { 
+   
 font-weight:bold;
-    color: brown;
+    color: rgb(165, 42, 128);
 }
 .bild {
+    
     border: 2px solid crimson;
     height: 220px;
     width: 200px;
 
+}
+.beskrivning {
+   
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(62, 11, 99);
+
+}
+.omMig{
+
+    border-style: groove;
+    border-color: rgb(153, 119, 138);
+    background-color: mediumorchid;
 }
